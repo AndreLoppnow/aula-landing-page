@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 90%;
+    background-color: rgb(226, 163, 134);
+    color: rgb(46, 54, 54);
+    border-color: black;
+    border-radius: 5px;
+    border-style: groove;
+    font-size: larger;
+}
+
+#botao {
+    background-color: rgb(226, 163, 134);
+    color: black;
+}
